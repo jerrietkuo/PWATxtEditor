@@ -48,7 +48,7 @@ J.A.T.E is deployed on Render. The application is built using Webpack, and the p
 
 ### Render Deployment
 
-1. **Build Command**: `npm run build`
+1. **Build Command**: `npm install && npm install -D webpack-cli && npm run build`
 2. **Start Command**: `npm start`
 
 ## Usage
@@ -85,5 +85,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries, please contact:
 - Name: [Jerriet Kuo]
-- Email: [jerrietkuo@gmail.com]
+
+## Contact
+
+For any inquiries, please contact:
+
+- Email: [jerriet kuo](mailto:jerrietkuo@gmail.com)
 - GitHub: [https://github.com/jerrietkuo]
+- Deployed App: [https://pwatxteditor.onrender.com]
